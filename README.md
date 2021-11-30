@@ -2,6 +2,10 @@
 
 ## Links
 
+Talk at SciPy 2018 [here](https://www.youtube.com/watch?v=WUs0u2PJ2UU)
+
+Reccomended further reading: Thermodynamics of Information
+
 You can find the slides
 [here](https://docs.google.com/presentation/d/1jDXcH7jcnr1SoWMaH6qZqgZJxvvoqvifs6xk65KEzN0/edit?usp=sharing).
 
