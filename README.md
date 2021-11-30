@@ -4,7 +4,7 @@
 
 Talk at SciPy 2018 [here](https://www.youtube.com/watch?v=WUs0u2PJ2UU)
 
-Reccomended further reading: Thermodynamics of Information
+Reccomended further reading: [Thermodynamics of Information](https://www.google.com/search?q=thermodynamics+of+information)
 
 You can find the slides
 [here](https://docs.google.com/presentation/d/1jDXcH7jcnr1SoWMaH6qZqgZJxvvoqvifs6xk65KEzN0/edit?usp=sharing).
